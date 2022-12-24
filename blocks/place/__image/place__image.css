@@ -4,6 +4,7 @@
   max-width: 460px;
   width: 100%;
   grid-row: 2/4;
+  aspect-ratio: auto 1/1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

@@ -5,6 +5,7 @@
   width: 100%;
   justify-self: center;
   object-fit: cover;
+  aspect-ratio: auto 1/1;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

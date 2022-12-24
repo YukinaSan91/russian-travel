@@ -9,7 +9,7 @@
   height: 740px;
   text-decoration-line: none;
   position: relative;
-
+  aspect-ratio: auto 1/1;
 }
 
 .cover__background::before {
@@ -22,7 +22,7 @@
   height: 100%;
   background-color: #2A2C2F;
   opacity: .3;
-  transition: opacity 0.5 linear;
+  transition: opacity 0.5s linear;
 }
 
 .cover__background:hover::before {

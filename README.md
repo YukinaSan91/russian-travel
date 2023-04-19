@@ -1,6 +1,6 @@
 # Проект: Путешествия по России
 
-![russian_travel] (https://github.com/YukinaSan91/russian-travel/blob/main/images/russian_travel.png)
+![russian_travel](https://github.com/YukinaSan91/russian-travel/blob/main/images/russian_travel.png)
 
 ______________________
 
